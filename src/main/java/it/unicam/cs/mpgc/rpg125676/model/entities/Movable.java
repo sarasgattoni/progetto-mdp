@@ -1,4 +1,4 @@
-package it.unicam.cs.mpgc.model.entities;
+package it.unicam.cs.mpgc.rpg125676.model.entities;
 
 /**
  * Represents any entity that can move throughout the grid.

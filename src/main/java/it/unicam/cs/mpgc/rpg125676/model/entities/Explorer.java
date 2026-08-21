@@ -1,4 +1,4 @@
-package it.unicam.cs.mpgc.model.entities;
+package it.unicam.cs.mpgc.rpg125676.model.entities;
 
 /**
  * This class represents a concrete implementation of the explorer protagonist of the game.
