@@ -1,4 +1,4 @@
-package it.unicam.cs.mpgc.model.strategies;
+package it.unicam.cs.mpgc.model.entities.strategies;
 
 import it.unicam.cs.mpgc.model.entities.Enemy;
 import it.unicam.cs.mpgc.model.entities.Player;

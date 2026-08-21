@@ -1,6 +1,6 @@
 package it.unicam.cs.mpgc.model.entities;
 
-import it.unicam.cs.mpgc.model.strategies.EnemyStrategy;
+import it.unicam.cs.mpgc.model.entities.strategies.EnemyStrategy;
 
 /**
  * This class represents any type of hostile entity present in the house.

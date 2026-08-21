@@ -1,6 +1,6 @@
 package it.unicam.cs.mpgc.model.entities;
 
-import it.unicam.cs.mpgc.model.strategies.EnemyStrategy;
+import it.unicam.cs.mpgc.model.entities.strategies.EnemyStrategy;
 
 /**
  * This class represents the spectral presence hunting the player during the haunting phase.
